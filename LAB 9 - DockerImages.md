@@ -79,6 +79,7 @@ docker image ls
 ```
 docker run -it --name ct3 ubuntu:Dockerfile1
 ```
+Press Ctrl+P+Q, to switch back to Host
 
 ### Task 3: Building a Dockerfile to setup an Ubuntu container with WordPress application
 
